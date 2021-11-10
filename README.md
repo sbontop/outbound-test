@@ -2,9 +2,9 @@
 React Native Web Application
 
 # Setup on Linux
-# Requirements
+## Requirements
 1. nodejs v12 or greater
-# Steps
+## Steps
 1.  npm install --global yarn
 2.  yarn global add expo-cli
 3.  cd outbound-test/
